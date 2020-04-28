@@ -1,0 +1,4 @@
+E:\Programming\Sahra\Tfs\Online\OMS\OMS.Core\bin\Release\OMS.Core.dll
+E:\Programming\Sahra\Tfs\Online\OMS\OMS.Core\bin\Release\OMS.Core.pdb
+E:\Programming\Sahra\Tfs\Online\OMS\OMS.Core\obj\Release\OMS.Core.dll
+E:\Programming\Sahra\Tfs\Online\OMS\OMS.Core\obj\Release\OMS.Core.pdb
